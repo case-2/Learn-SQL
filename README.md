@@ -68,6 +68,8 @@ Return the band name as `Band Name`.
 | Death             | 
 | Van Canto         | 
 
+solved
+
 ### 5. Get all Bands that have No Albums
 [Solution](solutions/5.sql)
 
