@@ -22,6 +22,8 @@ This table should be called `songs` and have four properties with these exact na
 
 After successfully creating the table copy the code from [data.sql](data.sql) into MySQL Workbench, and run it to populate all of the data for the rest of the exercises. If you do not encounter any errors, then your answer is most likely correct.
 
+solved.
+
 ### 2. Select only the Names of all the Bands
 [Solution](solutions/2.sql)
 
@@ -37,6 +39,8 @@ Change the name of the column the data returns to `Band Name`
 | Van Canto         | 
 | Dream Theater     | 
 
+solved
+
 ### 3. Select the Oldest Album
 [Solution](solutions/3.sql)
 
@@ -45,6 +49,8 @@ Make sure to only return one result from this query, and that you are not return
 | id | name                   | release_year | band_id | 
 |----|------------------------|--------------|---------| 
 | 5  | ...And Justice for All | 1988         | 2       | 
+
+solved
 
 ### 4. Get all Bands that have Albums
 [Solution](solutions/4.sql)
