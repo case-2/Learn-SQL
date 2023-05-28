@@ -81,6 +81,8 @@ Return the band name as `Band Name`.
 |---------------| 
 | Dream Theater | 
 
+solved
+
 ### 6. Get the Longest Album
 [Solution](solutions/6.sql)
 
