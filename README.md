@@ -103,10 +103,14 @@ Set the release year to 1986.
 
 You may run into an error if you try to update the release year by using `release_year IS NULL` in the WHERE statement of your UPDATE. This is because MySQL Workbench by default will not let you update a table that has a primary key without using the primary key in the UPDATE statement. This is a good thing since you almost never want to update rows without using the primary key, so to get around this error make sure to use the primary key of the row you want to update in the WHERE of the UPDATE statement.
 
+studied
+
 ### 8. Insert a record for your favorite Band and one of their Albums
 [Solution](solutions/8.sql)
 
 If you performed this correctly you should be able to now see that band and album in your tables.
+
+studied
 
 ### 9. Delete the Band and Album you added in #8
 [Solution](solutions/9.sql)
