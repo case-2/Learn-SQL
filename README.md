@@ -94,6 +94,8 @@ Return the album name as `Name`, the album release year as `Release Year`, and t
 |----------------|--------------|-------------------| 
 | Death Magnetic | 2008         | 74.76666593551636 | 
 
+solved
+
 ### 7. Update the Release Year of the Album with no Release Year
 [Solution](solutions/7.sql)
 
