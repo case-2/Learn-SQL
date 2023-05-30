@@ -128,6 +128,7 @@ Return the average length as `Average Song Duration`.
 |-----------------------| 
 | 5.352472513259112     | 
 
+studied
 
 ### 11. Select the longest Song off each Album
 [Solution](solutions/11.sql)
@@ -154,6 +155,8 @@ Return the album name as `Album`, the album release year as `Release Year`, and 
 | A Storm to Come             | 2006         | 5.21667  | 
 | Break the Silence           | 2011         | 6.15     | 
 | Tribe of Force              | 2010         | 8.38333  | 
+
+studied
 
 ### 12. Get the number of Songs for each Band
 [Solution](solutions/12.sql)
