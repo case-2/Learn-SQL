@@ -22,7 +22,7 @@ This table should be called `songs` and have four properties with these exact na
 
 After successfully creating the table copy the code from [data.sql](data.sql) into MySQL Workbench, and run it to populate all of the data for the rest of the exercises. If you do not encounter any errors, then your answer is most likely correct.
 
-solved.
+studied
 
 ### 2. Select only the Names of all the Bands
 [Solution](solutions/2.sql)
@@ -39,7 +39,7 @@ Change the name of the column the data returns to `Band Name`
 | Van Canto         | 
 | Dream Theater     | 
 
-solved
+studied
 
 ### 3. Select the Oldest Album
 [Solution](solutions/3.sql)
@@ -50,7 +50,7 @@ Make sure to only return one result from this query, and that you are not return
 |----|------------------------|--------------|---------| 
 | 5  | ...And Justice for All | 1988         | 2       | 
 
-solved
+studied
 
 ### 4. Get all Bands that have Albums
 [Solution](solutions/4.sql)
@@ -68,7 +68,7 @@ Return the band name as `Band Name`.
 | Death             | 
 | Van Canto         | 
 
-solved
+studied
 
 ### 5. Get all Bands that have No Albums
 [Solution](solutions/5.sql)
@@ -81,7 +81,7 @@ Return the band name as `Band Name`.
 |---------------| 
 | Dream Theater | 
 
-solved
+studied
 
 ### 6. Get the Longest Album
 [Solution](solutions/6.sql)
@@ -94,7 +94,7 @@ Return the album name as `Name`, the album release year as `Release Year`, and t
 |----------------|--------------|-------------------| 
 | Death Magnetic | 2008         | 74.76666593551636 | 
 
-solved
+studied
 
 ### 7. Update the Release Year of the Album with no Release Year
 [Solution](solutions/7.sql)
