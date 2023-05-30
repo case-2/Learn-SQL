@@ -173,3 +173,5 @@ Return the band name as `Band`, the number of songs as `Number of Songs`.
 | Within Temptation | 30              | 
 | Death             | 27              | 
 | Van Canto         | 32              | 
+
+studied
