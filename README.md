@@ -117,6 +117,8 @@ studied
 
 The order of how you delete the records is important since album has a foreign key to band.
 
+studied
+
 ### 10. Get the Average Length of all Songs
 [Solution](solutions/10.sql)
 
